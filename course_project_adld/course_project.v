@@ -5,7 +5,7 @@
 // 
 // Create Date:    23:40:33 05/14/2023 
 // Design Name: 
-// Module Name:    naush 
+// Module Name:    AM 
 // Project Name: 
 // Target Devices: 
 // Tool versions: 
@@ -18,7 +18,7 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module naush(a,b,rslt);
+module AM(a,b,rslt);
 
 input [7:0] a,b;
 output reg [15:0] rslt;
